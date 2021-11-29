@@ -8,7 +8,7 @@ The **BLEU score** of **0.38** ws achieved on the model.
 # Predictions
 
 **Review:** amid crowning new world champion another dazzling performance amir khan las vegas strip witnessed yet farcical scoring saturday night end year blighted bad decisions ringside judges cosmopolitan hotel guilty yet glaring errors ireland s andy lee glad spared fate stopped matt korobov win wbo middleweight crown timothy bradley <br />
-**Original summary:** mauricio herrera timothy bradley left stunned scores read bradley looked returned winning ways diego chaves three ringside judges saw fight differently draw bradley s promoter bob arum livid judgement herrera looked done enough edge jose benavidez herrera however also denied judges ****
+**Original summary:** mauricio herrera timothy bradley left stunned scores read bradley looked returned winning ways diego chaves three ringside judges saw fight differently draw bradley s promoter bob arum livid judgement herrera looked done enough edge jose benavidez herrera however also denied judges <br />
 **Predicted summary:**  floyd mayweather manny pacquiao wbo welterweight title las vegas lawler saunders welterweight champion eubank jnr world champion amir khan fight
 
 Predictions on the Inshorts dataset(https://github.com/sunnysai12345/News_Summary)

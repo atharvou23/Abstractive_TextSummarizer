@@ -1,10 +1,10 @@
 # Abstractive_TextSummarizer
-A project to implement **LSTM** based **Seq2Seq Encoder-Decoder** model with **attention mechanism**.
-Used pre-trained **GloVE** embedding vectors.
+A project to implement **LSTM** based **Seq2Seq Encoder-Decoder** model with **attention mechanism** to summerize lengthy articles.
+
 The model was trained on **CNN / Daily Mail** dataset as processed by **Nallapati et al. (2016)**.The dataset contains online news articles (781 tokens on average) paired with multi-sentence summaries (3.75 sentences or 56 tokens on average). The processed version contains 287,226 training pairs, 13,368 validation pairs and 11,490 test pairs. Models are evaluated with BLEU score.
 
-The **BLEU score** of **0.38** ws achieved on the model.
-
+The **BLEU score** of **0.38** ws achieved on the model. <br />
+Used pre-trained **GloVE** embedding vectors.
 # Predictions
 
 **Review:** amid crowning new world champion another dazzling performance amir khan las vegas strip witnessed yet farcical scoring saturday night end year blighted bad decisions ringside judges cosmopolitan hotel guilty yet glaring errors ireland s andy lee glad spared fate stopped matt korobov win wbo middleweight crown timothy bradley <br />
